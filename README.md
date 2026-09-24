@@ -34,7 +34,7 @@ Settings → Community plugins → Browse → search **"mdfit"** → Install.
 1. Download `main.js` and `manifest.json` from the
    [latest release](https://github.com/Naloam/mdfit-obsidian-plugin/releases/latest).
 2. Copy both files into `<your-vault>/.obsidian/plugins/mdfit/`.
-3. Enable **mdfit — fit any Markdown** in Settings → Community plugins.
+3. Enable **mdfit - Fit Any Markdown** in Settings → Community plugins.
 
 ## Development
 
