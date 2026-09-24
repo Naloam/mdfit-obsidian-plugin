@@ -1,7 +1,7 @@
-# mdfit for Obsidian
+# mdfit - Fit Any Markdown
 
-Auto-convert pasted LLM output (ChatGPT / Claude / Gemini) into clean
-Obsidian-flavored Markdown the moment it lands in a note — no manual cleanup.
+An Obsidian plugin that auto-converts pasted LLM output (ChatGPT / Claude /
+Gemini) into clean Markdown the moment it lands in a note — no manual cleanup.
 
 Paste from an AI chat and get, instantly:
 
